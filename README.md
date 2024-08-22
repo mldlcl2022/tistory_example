@@ -1,2 +1,1 @@
-# tistory_example
-Tistory example python code
+# [Example code for a contents written on Tistory blog](https://mldlcl2022.tistory.com)
